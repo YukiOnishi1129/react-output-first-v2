@@ -1,4 +1,4 @@
-import { InputForm } from "../../atoms/InputForm";
+import { InputForm } from "../../atoms";
 import styles from "./style.module.css";
 
 export const AddTodo = ({ addInputValue, onChangeTodo, handleAddTodo }) => (
