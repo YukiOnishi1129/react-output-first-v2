@@ -1,6 +1,6 @@
 import { defineConfig } from "vite";
 import react from "@vitejs/plugin-react";
-const repositoryName = "vue-output-first";
+const repositoryName = "react-output-first-v2";
 
 // https://vite.dev/config/
 export default defineConfig({
